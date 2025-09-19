@@ -30,10 +30,16 @@ Currently working on **Power BI dashboards, ML-based medical diagnosis models, a
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xheenkhalil&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xheenkhalil&theme=tokyonight" alt="GitHub Streak" height="165"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xheenkhalil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%"/>
+  
 </p>
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xheenkhalil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
+</p>
+
+
 
 ---
 
@@ -46,8 +52,8 @@ Currently working on **Power BI dashboards, ML-based medical diagnosis models, a
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/moses-thomas-61195434a)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:engrzyfer@gmail.com)  
 
 ---
 
