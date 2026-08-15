@@ -1,130 +1,196 @@
-# Hi there, I'm Xheen Khalil 👋  
+# Xheen Khalil
 
-💻 **Data Scientist | Data Analyst | Python Developer | Writer**  
+### Data Scientist · AI/ML Engineer · Full-Stack Python Developer · Technical Writer
 
-I’m passionate about turning data into insights, building intelligent tools, and telling stories with both **numbers and code**.  
-Currently working on **Power BI dashboards, ML-based medical diagnosis models, and AI-powered data engines**.  
+I design and build **data-driven software, intelligent systems, and full-stack applications** that turn complex problems into practical solutions.
 
----
+My work sits at the intersection of **data science, artificial intelligence, backend engineering, and modern web development**. I enjoy taking a problem from raw data and experimentation through APIs, production systems, dashboards, and user-facing applications.
 
-## 🔧 Technologies & Tools  
-
-### 🧠 Data Science & Analytics  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3793EF?logo=seaborn&logoColor=white&style=for-the-badge)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)
+I am particularly interested in building systems that are not only technically capable, but also **reliable, scalable, understandable, and useful**.
 
 ---
 
-### 🤖 AI / Machine Learning  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=chainlink&logoColor=white&style=for-the-badge)
-![Transformers](https://img.shields.io/badge/-Transformers-000000?logo=huggingface&logoColor=white&style=for-the-badge)
+## What I Build
+
+* **Data & Analytics** — analytical pipelines, exploratory analysis, dashboards, reporting systems, and data-driven decision tools.
+* **Machine Learning & AI** — predictive models, computer vision systems, NLP applications, intelligent automation, and AI-powered products.
+* **Backend Systems** — production-ready APIs, asynchronous workloads, data services, authentication, integrations, and distributed application components.
+* **Full-Stack Applications** — modern web applications connecting data, AI, APIs, and intuitive interfaces.
+* **Data Intelligence Systems** — automated data collection, processing, analysis, visualization, and insight generation.
+* **Technical & Creative Writing** — documenting ideas, explaining complex technical concepts, and exploring the intersection of technology and human creativity.
 
 ---
 
-### ⚙️ Backend Development  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white&style=for-the-badge)
-![REST API](https://img.shields.io/badge/-REST%20API-005571?logo=swagger&logoColor=white&style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge)
+## 🧠 Data Science & Analytics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=plotly\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3793EF?style=for-the-badge\&logo=seaborn\&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
 
 ---
 
-### 💻 Frontend Development  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/-FramerMotion-0055FF?logo=framer&logoColor=white&style=for-the-badge)
+## 🤖 AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=chainlink\&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge\&logo=huggingface\&logoColor=white)
 
 ---
 
-### 🗄️ Databases & Cloud  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
-![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black&style=for-the-badge)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+## ⚙️ Backend & API Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge\&logo=celery\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
 
 ---
 
-### 🧰 Dev Tools & Version Control  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Terminal](https://img.shields.io/badge/-Command%20Line-000000?logo=powershell&logoColor=white&style=for-the-badge)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+## 💻 Frontend Engineering
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
 
 ---
 
-## 📊 Featured Projects
+## 🗄️ Databases, Cloud & Infrastructure
 
-- 🎵 [**Spotify Dashboard**](https://github.com/xheenkhalil/Spotify-Dashboard) – Power BI dashboard analyzing Spotify datasets.  
-- 🏥 **Medical Diagnosis ML** – Machine learning model for disease prediction from symptoms.  
-- ⚡ **Diengine** – Data Intelligence Engine for automated scraping, analytics, and visualization.  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Engineering Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### 🎵 Spotify Analytics Dashboard
+
+**Power BI · Data Analytics · Data Visualization**
+
+An interactive analytics dashboard built around Spotify data, transforming raw music data into meaningful insights through visual exploration, metrics, and interactive reporting.
+
+**Repository:** [Spotify-Dashboard](https://github.com/xheenkhalil/Spotify-Dashboard)
+
+---
+
+### 🏥 Medical Diagnosis ML
+
+**Python · Machine Learning · Predictive Analytics**
+
+A machine learning project focused on predicting possible diseases from symptom-based input. The project explores data preprocessing, feature engineering, model development, evaluation, and practical prediction workflows.
+
+---
+
+### ⚡ Diengine
+
+**Python · Data Engineering · Automation · Analytics**
+
+A data intelligence engine designed to automate the journey from **data acquisition → processing → analysis → visualization → insight**.
+
+The goal is to reduce repetitive analytical work and create a reusable foundation for intelligent, data-driven applications.
+
+---
+
+# 🔬 Current Focus
+
+I am currently exploring and building around:
+
+* **Production-grade machine learning pipelines**
+* **AI-powered data applications**
+* **LLM and intelligent agent architectures**
+* **Full-stack applications with React + FastAPI**
+* **Data engineering and automated analytics**
+* **Computer vision and applied machine learning**
+* **Scalable APIs and backend systems**
+* **Data visualization and decision-support systems**
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xheenkhalil&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xheenkhalil&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=xheenkhalil&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# ✍️ Beyond Code
+
+Technology is only one part of how I think.
+
+I also write, explore ideas, and use storytelling as a way to understand and communicate complex subjects. I am particularly interested in the relationship between **technology, intelligence, data, creativity, and human experience**.
+
+For me, engineering is not simply about writing code.
+
+It is about **understanding a problem deeply, designing a useful solution, and building something that creates value.**
+
+---
+
+# 🤝 Let's Connect
+
+I'm open to conversations around:
+
+**Data Science · AI/ML · Software Engineering · Data Engineering · Open Source · Research · Technical Writing · Interesting Ideas**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xheenkhalil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%"/>
-  
+  <a href="https://www.linkedin.com/in/thomasmosesnaantagam">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:engrzyfer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xheenkhalil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
+---
+
+<p align="center">
+  <i>"Transforming complexity into clarity — through data, intelligence, and code."</i>
 </p>
-
-
-
----
-
-## 🌱 Currently Exploring
-- Advanced **machine learning pipelines**  
-- **Full-stack data apps** with React + FastAPI  
-- **Spiritual & creative writing projects** blending tech with storytelling  
-
----
-
-## 📫 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/moses-thomas-61195434a)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:engrzyfer@gmail.com)  
-
----
-
-✨ *"Transforming chaos into clarity — one dataset and one story at a time."*  
